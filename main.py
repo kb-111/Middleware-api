@@ -24,7 +24,7 @@ EMAIL = os.getenv(
 ALLOWED_ORIGINS = [
     "https://app-d3vjnc.example.com",
     # Add exam page origin here if provided
-    "https://exam.sanand.workers.dev/"
+    "https://exam.sanand.workers.dev"
 ]
 
 RATE_LIMIT = 11
